@@ -1,0 +1,19 @@
+These are the following features I've added to my Roll-a-Ball game : 
+
+Background music / collectible pickup noises
+Basic enemy/enemies for waypoints
+Respawn points
+Win and lose states
+Map assets (nature packs for world building)
+Jump Action
+Pause/resume/main menu button
+Seamless transitioning between scenes and levels
+AI Enemy
+
+Source code citations and help / reference : 
+
+For a basic game, I followed this exactly : https://www.youtube.com/playlist?list=PLX2vGYjWbI0TiP080ELGDurOmz5NAg5CI
+For having advanced features, I followed this roughly : https://www.youtube.com/watch?v=__wAQOSqIaw&list=PLAt-r11PZmRmaTqYA-JhcGpZretwRxq8z
+For the AI agent, I followed this, predominantly : https://learn.unity.com/tutorial/adding-ai-navigation?uv=2022.3&projectId=5f158f1bedbc2a0020e51f0d#64ecdf9fedbc2a2d3de5940c
+For the nature pack, I downloaded assets from this link and website : https://opengameart.org/content/nature-kit
+Music source : https://f2.freemp3cloud.com/
